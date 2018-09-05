@@ -6,6 +6,6 @@ I can't upload APK in this repo because it is huge :D
 
 Here you can try WebGL version: <a href="http://smartprogress.do/site/redirect/?url=http%3A%2F%2Fgamedevjon.com%2Fgamehost%2Fgames%2FSS_webGL_3-1536052689-973047466%2FSS_webGL_3%2F" target="_blank">link</a>
 
-I used free Assets from Unity asset store.
+I used free Assets from the Unity asset store.
 
 <image src="https://smartprogress.do/uploadImages/001218537.jpg">
